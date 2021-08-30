@@ -2,7 +2,6 @@
 - 👀 I’m interested in user experience design
 - 🌱 I’m currently learning continuously. 
 - 💞️ I’m looking to collaborate on user centric design. 
-- 📫 How to reach me 
 
 <!---
 olivia-webb/olivia-webb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
